@@ -5,3 +5,5 @@
 * eggs
 * oil
 * chocolate
+* vanilla
+* baking powder
